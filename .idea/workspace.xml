@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f69a3d37-b96a-422a-98fb-9416e93d4140" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/dio/desafio/bootcamp/StringUtils.java" afterDir="false" />
-    </list>
+    <list default="true" id="f69a3d37-b96a-422a-98fb-9416e93d4140" name="Changes" comment="add projeto bootcamp" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +62,14 @@
       <option name="presentableId" value="Default" />
       <updated>1638736910398</updated>
     </task>
+    <task id="LOCAL-00001" summary="add projeto bootcamp">
+      <created>1638755225113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638755225113</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add projeto bootcamp" />
+    <option name="LAST_COMMIT_MESSAGE" value="add projeto bootcamp" />
   </component>
 </project>
